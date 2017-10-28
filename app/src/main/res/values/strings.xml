@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LED</string>
+    <string name="btn_ligar">Blink</string>
+</resources>
